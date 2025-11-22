@@ -35,7 +35,7 @@ youtube-rag-assistant/
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/PS-Japan-Kachhiya/Level-1-Task.git
+git clone https://github.com/Japan1907/youtubevideo-rag.git
 
 ### 2️⃣ Create a Virtual Environment
 python -m venv .venv
